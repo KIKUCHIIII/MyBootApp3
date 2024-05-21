@@ -3,6 +3,8 @@ package com.example.mybootapp3;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+// Test
+
 @RestController
 public class TaroController {
         @RequestMapping("/")
